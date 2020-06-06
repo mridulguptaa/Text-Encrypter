@@ -1,6 +1,6 @@
 Text Encryptor
 
-Access Tool here : 
+Access Tool here : https://mridulguptaa.github.io/Text-Encrypter/
 
 How to Encrypt: 
 1.Upload the text file
